@@ -3,11 +3,8 @@ author: The implicit Gargoyle
 email: Nocurrentbuisnessemail@thetime.com
 description: > # this means to ignore newlines until "baseurl:"
  I like to meander, read fantasy and science-fiction. I hope you have a good day!
-
 Theme: minima
-
 # social links
-
 github_username:  Implicitgargoyle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
